@@ -8,7 +8,7 @@ The WINNER is who succeeds in placing three of their marks in a
 * horizontal,
 * vertical or
 * diagonal row
-Play field position:
+Play field positions:
 -------------------- 
   1  |  2  |   3  
   4  |  5  |   6  
